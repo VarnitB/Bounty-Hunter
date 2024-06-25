@@ -1,0 +1,14 @@
+# Ignore the virtual environment directory
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.swp
+*~
+.DS_Store
+
+# Ignore editor and OS specific files
+.vscode/
+.idea/
